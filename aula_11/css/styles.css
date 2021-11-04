@@ -1,0 +1,18 @@
+/* SELECTORES */
+
+/*
+    Selectores Compuestos
+        Selectores Agrupados -> Se agrupan los selectores separados por comas y se escribe el estilo una sola vez
+        Selectores Combinadores
+            Selector descendente -> Selecciona un elemento dentro de otro
+            Selector de hermano siguiente + -> Selecciona al hermano siguiente adyacente
+            Selector de hermanos siguientes ~ -> Selecciona  a todos los hermanos siguientes
+            Selector de hijo directo > -> Selecciona SOLO los hijos directos
+*/
+
+/* Selector descendente -> Selecciona un elemento dentro de otro */
+
+div .title-2{
+    background-color: teal;
+}
+

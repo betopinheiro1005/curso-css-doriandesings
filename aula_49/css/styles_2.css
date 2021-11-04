@@ -1,0 +1,19 @@
+/*
+  CurrentColor: Es una palabra clave que se puede usar en lugar de cualquier valor de color y usará el valor ya sea establecido o heredado en la propiedad color.
+*/
+
+body {
+  background-color: mediumorchid;
+  color: #333;
+}
+
+.main {
+  /* color: aquamarine; */
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: lightcoral;
+  border: 5px solid;
+}

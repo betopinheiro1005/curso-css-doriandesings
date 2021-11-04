@@ -1,0 +1,26 @@
+/* SELECTORES */
+
+/*
+    Selectores Simples
+        Selectores elementales
+            Selector Universal -> *
+            Selector de tipo o etiqueta -> Nombre de la etiqueta
+        Selectores de atributo
+            id -> id del elemento
+            clase -> clase del elemento
+            otros atributos
+                [atributo]->Selecciona los elementos con ese atributo
+                [atributo=valor]->Selecciona los elementos que coincidan con el atributo=valor
+                [atributo^=valor]-> Selecciona los elementos cuyo atributo comience con valor
+                [atributo*=valor]-> Selecciona los elementos cuyo atributo contenga valor
+                [atributo$=valor]-> Selecciona los elementos cuyo atributo termine con valor
+                [atributo|=valor]-> Selecciona los elementos cuyo atributo comience con valor o valor-
+
+    Selectores Compuestos
+        Selectores Agrupados -> Se agrupan los selectores separados por comas y se escribe el estilo una sola vez
+        Selectores Combinadores
+            Selector descendente -> Selecciona un elemento dentro de otro
+            Selector de hermano siguiente + -> Selecciona al hermano siguiente adyacente
+            Selector de hermanos siguientes ~ -> Selecciona  a todos los hermanos siguientes
+            Selector de hijo directo > -> Selecciona SOLO los hijos directos
+*/

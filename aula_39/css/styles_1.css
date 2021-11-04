@@ -1,0 +1,94 @@
+/*
+    z-index: Es la propiedad que nos permite ordenar los elementos superpuestos para controlar cual se coloca por delante y cual por detrás.
+*/
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #333;
+  color: #fff;
+  /* padding-top: 70px; */
+}
+
+.container {
+  width: 200px;
+  height: 200px;
+  background-color: #555;
+  position: relative;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  color: #333;
+}
+
+.box-1 {
+  background-color: lightcoral;
+}
+
+.box-2 {
+  background-color: lightgreen;
+  position: relative;
+  top: 50px;
+  /* z-index: auto; */   /* é o padrão */
+  z-index: 20;
+}
+
+.box-3 {
+  background-color: lightseagreen;
+  position: relative;
+  z-index: 10;
+}
+
+img {
+  width: 100%;
+  display: block;
+}
+
+.header {
+  text-align: center;
+  padding: 25px 0;
+  background-color: lightskyblue;
+  color: orangered;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  position: sticky;
+  top: 0;
+  height: 400px;
+  overflow: hidden;
+}
+
+/* .menu {
+  position: sticky;
+  top: 0;
+} */
+
+/* article {
+  outline: 3px solid red;
+} */
+
+/* .article-title {
+  position: sticky;
+  top: 0;
+  background-color: #333;
+  margin: 0;
+} */
+
+/* .link {
+  position: fixed;
+  background-color: lightcoral;
+  width: 200px;
+} */
+
+.link {
+  position: absolute;
+  background-color: lime;
+  width: 200px;
+  top: 50px;
+}

@@ -1,0 +1,24 @@
+/*
+  WIDTH:
+    % -> Cuando usamos porcentaje usamos de referencia el tamaño del contenedor y el navegador calcula ese porcentaje. Esto no ocurre cuando usamos transform.
+    auto -> Cuando usamos auto le pedimos al navegador que calcule el ancho en función del espacio disponible.
+*/
+
+body {
+  margin: 0;
+  background-color: #333;
+  color: lightcoral;
+}
+
+.box {
+  width: 250px;
+  height: 250px;
+  background-color: lightgreen;
+}
+
+.box-children {
+  width: auto;
+  height: 25%;
+  margin-left: 100px;
+  background-color: lightseagreen;
+}

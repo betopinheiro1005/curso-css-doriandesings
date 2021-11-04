@@ -1,0 +1,49 @@
+/*
+  VIEWPORT
+    El viewport es el área útil donde se mostrará la página web. IMPORTANTE, tened en cuenta que es el area visible sin hacer scroll.
+    Podemos usar el viewport como medida de varias formas:
+      vw-> Viewport Width, hace referencia al ancho del viewport.
+      vh -> Viewport Height, hace referencia al alto del viewport.
+      vmax -> Utiliza el valor más grande entre el ancho y el alto del viewport.
+      vmin -> Utiliza el valor más pequeño entre el ancho y el alto del viewport.
+
+      1vw = 1% del ancho del viewport
+      1vh = 1% del alto del viewport
+      1vmin = 1% del valor que sea más pequeño del viewport
+      1vmax = 1% del valor que sea más grande del viewport
+*/
+
+html{
+  height: 300px;
+}
+
+body {
+  margin: 0;
+  background-color: #333;
+  color: lightcoral;
+  /* height: 500px; */
+}
+
+.header {
+  background-color: lightskyblue;
+  text-align: center;
+  /* height: 100vh; */
+  /* width: 100vw; */
+}
+
+.box {
+  width: 300px;
+  height: 300px;
+  /* padding-bottom: 30px; */
+  background-color: lightgreen;
+}
+
+.box-children {
+  position: sticky;  /* position: relative ou position: sticky corresponde ao contenedor */
+  top: 0;
+  /* width: 50%; */
+  /* width: 50vw; */
+  width: 30vmax;
+  height: 150px;
+  background-color: lightseagreen;
+}

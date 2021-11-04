@@ -1,0 +1,16 @@
+/* SELECTORES */
+
+/*
+Selectores de atributo
+    id -> id del elemento
+    clase -> clase del elemento
+    otros atributos
+*/
+
+#title{
+    background-color: lightgreen;
+}
+
+.text{
+    background-color: steelblue;
+}

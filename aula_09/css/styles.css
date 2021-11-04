@@ -1,0 +1,35 @@
+/* SELECTORES */
+
+/*
+Selectores de atributo
+[atributo]->Selecciona los elementos con ese atributo
+[atributo=valor]->Selecciona los elementos que coincidan con el atributo=valor
+[atributo^=valor]-> Selecciona los elementos cuyo atributo comience con valor
+[atributo*=valor]-> Selecciona los elementos cuyo atributo contenga valor
+[atributo$=valor]-> Selecciona los elementos cuyo atributo termine con valor
+[atributo|=valor]-> Selecciona los elementos cuyo atributo comience con valor o valor-
+*/
+
+[href]{
+    background-color: mediumorchid;
+}
+
+[href="https://google.com"]{
+    background-color: orangered;
+}
+
+[href^="color"]{
+    background-color: red;
+}
+
+[href*="modo"]{
+    background-color: green;
+}
+
+[href$="azul"]{
+    background-color: steelblue;
+}
+
+[lang|="en"]{
+    background-color: magenta;
+}

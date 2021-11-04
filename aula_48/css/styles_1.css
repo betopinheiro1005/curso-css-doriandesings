@@ -1,0 +1,20 @@
+/*
+  Colores
+   La mayoría las pantallas funcionan con un modo de color aditivo. La suma de RGB da como resultado un blanco
+   Tenemos varias formas de dar color en CSS
+
+    Keywords -> Palabras clave que representan colores https://www.w3.org/wiki/CSS/Properties/color/keywords
+
+    IMPORTANTE: Recordad que existe el color "transparent"
+*/
+
+body {
+  margin: 0;
+  background-color: #333;
+}
+
+.box {
+  border-left: 100px solid red;
+  border-top: 100px solid blue;
+  border-bottom: 100px solid green;
+}
