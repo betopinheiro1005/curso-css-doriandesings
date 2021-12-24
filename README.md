@@ -49,12 +49,12 @@ Aula 39 - TUTORIAL Qué es y como FUNCIONA la Propiedad Z-INDEX
 Aula 40 - QUÉ ES STACKING CONTEXT o Contexto de APILAMIENTO  
 Aula 41 - CÓMO Ordenar Propiedades  
 Aula 42 - Qué Son las MEDIDAS ABSOLUTAS y MEDIDAS RELATIVAS  
-Aula 43 - Unidades de MEDIDA EM y REM ◀ QUÉ Son y CÓMO se USAN  
-Aula 44 - Qué Es y Cómo Se Usa WIDTH En % y WIDTH AUTO  
-Aula 45 - Cómo se utilizan y Funcionan HEIGHT % Y HEIGHT AUTO  
+Aula 43 - Unidades de MEDIDA EM y REM - QUÉ Son y CÓMO se USAN  
+Aula 44 - Qué Es y Cómo Se Usa WIDTH En y WIDTH AUTO  
+Aula 45 - Cómo se utilizan y Funcionan HEIGHT Y HEIGHT AUTO  
 Aula 46 - Cómo Funcionan las Medidas Relativas al VIEWPORT RESPONSIVECURSO  
 Aula 47 - MEDIDAS RELATIVAS Min-Width, Min-Height, Max-Width y Max-height  
-Aula 48 - Todo sobre Códigos de COLORES EN CSS【 PALABRAS CLAVE  
+Aula 48 - Todo sobre Códigos de COLORES EN CSS PALABRAS CLAVE  
 Aula 49 - TUTORIAL CURRENTCOLOR Qué es y Cómo se usa  
 Aula 50 - Modo de COLOR RGB (Diferencia entre COLORES RGBA)  
 Aula 51 - APRENDE Qué es el Modo de COLOR HEXADECIMAL  
