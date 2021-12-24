@@ -61,7 +61,7 @@ Aula 51 - APRENDE Qué es el Modo de COLOR HEXADECIMAL
 Aula 52 - Qué es el Modo de Color HSL y para qué funciona  
 Aula 53 - QUÉ es la TipografíaCómo poner FUENTES en CSS  
 Aula 54 - Aprende a Cómo Usar GOOGLE FONTS CON CSS  
-Aula 55 - GOOGLE ICONS【 Cómo Usar Librerías De ICONOS  
+Aula 55 - GOOGLE ICONS Cómo Usar Librerías De ICONOS  
 Aula 56 - Cómo usar @FONT-FACE en CSS  
 Aula 57 - Cómo DECORAR Textos en CSS Text Decoration - Text Transform - Text Shadow  
 Aula 58 - Cómo dar ESPACIO entre letras en CSSEspaciado y Orientación de TEXTOFIN DEL CURSO DE CSS  
