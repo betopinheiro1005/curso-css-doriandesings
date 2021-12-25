@@ -1,8 +1,7 @@
 # Curso de CSS desde cero
 ## Dorian Desings
 
-### Link dos vídeos
-<https://www.youtube.com/watch?v=-k-w8JpTNwA&list=PLROIqh_5RZeDbvISffzihyxzqJBt_z3-Z>
+### [Vídeos do curso](https://www.youtube.com/watch?v=-k-w8JpTNwA&list=PLROIqh_5RZeDbvISffzihyxzqJBt_z3-Z)
 
 ### Lista de aulas
 
